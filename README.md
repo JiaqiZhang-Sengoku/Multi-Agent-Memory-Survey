@@ -1,7 +1,4 @@
-<h1 align="center">From Private Experience to Collective State</h1>
-
-<p align="center"><strong>A Survey of Multi-Agent Memory Formation and Maintenance</strong></p>
-
+<h1>From Private Experience to Collective State: A Survey of Multi-Agent Memory Formation and Maintenance</h1>
 
 > Yiqi Wang, Jiaqi Zhang, Zhangkai Wu, Mingkai Zheng, Zequn Sun, Yiqun Duan, Zirui Liu, Zhihao Hao, Taotao Cai
 
