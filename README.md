@@ -1,5 +1,9 @@
 # From Private Experience to Collective State: A Survey of Multi-Agent Memory Formation and Maintenance
-## 📖[**Paper**](https://zenodo.org/records/22288996?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM3Nzk4NzA5LWNmM2ItNDNkOS1hY2I4LTI1MTdkY2E5NjA0ZCIsImRhdGEiOnt9LCJyYW5kb20iOiI3NTYzY2ZiOWYwOGRmMTVhZmRmNDNkYTU2YzA0YTRiNiJ9.W5cR5VRL5gIyEWB02K7JTasFD2wJf3Z63dxZqVsqFBQWYuLtdOP6Pzf3-YZ4f2K8thotft-mA9QW3DWs9Mpnxw)
+
+<div align="center">
+  <a href="https://zenodo.org/records/22288996?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM3Nzk4NzA5LWNmM2ItNDNkOS1hY2I4LTI1MTdkY2E5NjA0ZCIsImRhdGEiOnt9LCJyYW5kb20iOiI3NTYzY2ZiOWYwOGRmMTVhZmRmNDNkYTU2YzA0YTRiNiJ9.W5cR5VRL5gIyEWB02K7JTasFD2wJf3Z63dxZqVsqFBQWYuLtdOP6Pzf3-YZ4f2K8thotft-mA9QW3DWs9Mpnxw"><img src="https://img.shields.io/badge/Paper-Zenodo-024E9C?logo=zenodo&style=for-the-badge" alt="Paper" /></a>
+</div>
+
 > Yiqi Wang, Jiaqi Zhang, Zhangkai Wu, Mingkai Zheng, Zequn Sun, Yiqun Duan, Zirui Liu, Zhihao Hao, Taotao Cai
 
 ## 📌 Contents
