@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <a href="https://zenodo.org/records/22288996?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM3Nzk4NzA5LWNmM2ItNDNkOS1hY2I4LTI1MTdkY2E5NjA0ZCIsImRhdGEiOnt9LCJyYW5kb20iOiI3NTYzY2ZiOWYwOGRmMTVhZmRmNDNkYTU2YzA0YTRiNiJ9.W5cR5VRL5gIyEWB02K7JTasFD2wJf3Z63dxZqVsqFBQWYuLtdOP6Pzf3-YZ4f2K8thotft-mA9QW3DWs9Mpnxw"><img src="https://img.shields.io/badge/Paper-Zenodo-024E9C?style=for-the-badge" alt="Paper" /></a>
+  <a href="https://www.researchgate.net/profile/Yiqi-Wang-42/publication/413963742_From_Private_Experience_to_Collective_State_A_Survey_of_Multi-Agent_Memory_Formation_and_Maintenance"><img src="https://img.shields.io/badge/Paper-ResearchGate-00CCBB?style=for-the-badge" alt="Paper" /></a>
 </div>
 
 ## 📌 Contents
@@ -372,13 +372,15 @@ Task success and retrieval accuracy remain necessary, but they are insufficient 
 If you find this survey useful, please consider citing it:
 
 ```bibtex
-@misc{wang2026privateexperience,
-  author    = {Yiqi Wang and Jiaqi Zhang and Zhangkai Wu and Mingkai Zheng and Zequn Sun and Yiqun Duan and Zirui Liu and Zhihao Hao and Taotao Cai},
-  title     = {{From Private Experience to Collective State: A Survey of Multi-Agent Memory Formation and Maintenance}},
-  month     = sep,
-  year      = {2026},
-  publisher = {Zenodo},
-  doi       = {10.5281/zenodo.22288996},
-  url       = {https://doi.org/10.5281/zenodo.22288996}
+@article{wangprivate,
+  author={Yiqi Wang and
+          Jiaqi Zhang and
+          Zhangkai Wu and
+          Mingkai Zheng and
+          Zequn Sun and
+          Yiqun Duan and
+          Zirui Liu and
+          Zhihao Hao and
+          Taotao Cai},
+  title={From Private Experience to Collective State: A Survey of Multi-Agent Memory Formation and Maintenance}
 }
-```
